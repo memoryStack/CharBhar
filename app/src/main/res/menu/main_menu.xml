@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.root.myapplication.GameActivity"
+    >
+
+    <item
+        android:id="@+id/new_game_menu"
+        android:title="@string/new_game"
+        app:showAsAction="never"
+
+        />
+
+</menu>
+
+<!--
+android:textAppearance="@android:color/white"
+        android:background="@android:color/black
+        style="@style/actionMenuBackgroundStyle"
+
+
+
+-->
